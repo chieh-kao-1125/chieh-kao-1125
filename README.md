@@ -1,6 +1,6 @@
 - 👋 Hi, I’m chieh, kao.
 - 👀 I’m interested in data visualization and analysis.
-- 🌱 I’m currently learning advanced DAX in PowerBI
+- 🌱 I’m currently learning advanced DAX in PowerBI.
 - 📫 Contact me via email chieh.kao1125@gmail.com
 
 <!---
