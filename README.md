@@ -1,9 +1,13 @@
 Hi, I’m chieh kao.
 
 A passionate Big Data Engineer skilled in data visualization and data analysis! 
+<br></br>
+**Skills**
+
+🔨 PowerBI, R, SSMS, SSIS
 
 🌱 Currently learning advanced DAX in PowerBI
-
+<br></br>
 📫 **Contact me via**
 - chieh.kao1125@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/chieh-kao-777360310)
