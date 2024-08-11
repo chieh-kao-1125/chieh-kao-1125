@@ -4,7 +4,7 @@ A passionate Big Data Engineer skilled in data visualization and data analysis!
 <br></br>
 
 🔨 **Skills**
-- Experience on: PowerBI, R, SSMS, SSIS, SSRS
+- Experience on: PowerBI, R, MSSQL, SSMS, SSIS, SSRS
 - Industries: Medical services, Food, Beauty, Finance
 - Currently learning: Advanced DAX in PowerBI
 <br></br>
