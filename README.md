@@ -5,7 +5,7 @@ A passionate Big Data Engineer skilled in data visualization and data analysis!
 🌱 Currently learning advanced DAX in PowerBI
 
 📫 **Contact me via**
-- [Email](chieh.kao1125@gmail.com)
+- Email chieh.kao1125@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/chieh-kao-777360310)
 
 <!---
