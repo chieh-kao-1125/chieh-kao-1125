@@ -8,6 +8,7 @@ A passionate Big Data Engineer skilled in data visualization and data analysis!
 - Industries: Medical services, Food, Beauty, Finance
 - Currently learning: Advanced DAX in PowerBI
 <br></br>
+
 📫 **Contact me via**
 - chieh.kao1125@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/chieh-kao-777360310)
