@@ -2,9 +2,9 @@ Hi, I’m chieh kao.
 
 A passionate Big Data Engineer skilled in data visualization and data analysis! 
 <br></br>
-**Skills**
+🔨 **Skills**
 
-🔨 PowerBI, R, SSMS, SSIS
+🌳 PowerBI, R, SSMS, SSIS
 
 🌱 Currently learning advanced DAX in PowerBI
 <br></br>
