@@ -1,7 +1,6 @@
 Hi, I’m chieh kao.
 
 A passionate Big Data Engineer skilled in data visualization and data analysis! 
-
 <br></br>
 
 🔨 **Skills**
