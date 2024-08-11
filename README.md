@@ -4,9 +4,9 @@ A passionate Big Data Engineer skilled in data visualization and data analysis!
 <br></br>
 🔨 **Skills**
 
-🌳 Experience on: PowerBI, R, SSMS, SSIS
+💪 Experience on: PowerBI, R, SSMS, SSIS
 
-🍂 Industries: Medical services, Food, Beauty, Finance
+🏢 Industries: Medical services, Food, Beauty, Finance
 
 🌱 Currently learning: Advanced DAX in PowerBI
 
