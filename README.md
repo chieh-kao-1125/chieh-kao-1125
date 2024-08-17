@@ -9,11 +9,11 @@ A passionate Big Data Engineer skilled in data visualization and data analysis!
 - Currently learning: Advanced DAX in PowerBI
 <br></br>
 
-**Projects**
+📂 **Projects**
 - [MRT at Northern Taiwan](https://github.com/chieh-kao-1125/MRT_at_Northern_Taiwan)
 <br></br>
 
-**Coding Tips**
+🔑 **Coding Tips**
 - [MSSQL](https://github.com/chieh-kao-1125/MSSQL-Tips)
 <br></br>
 
