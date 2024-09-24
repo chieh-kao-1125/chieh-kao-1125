@@ -15,7 +15,6 @@ A passionate Big Data Engineer skilled in data visualization and data analysis!
 
 🔑 **Coding Tips**
 - [MSSQL](https://github.com/chieh-kao-1125/MSSQL-Tips)
-<br></br>
 - [PBI DAX](https://github.com/chieh-kao-1125/PBI_DAX-Tips)
 <br></br>
 
