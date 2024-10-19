@@ -11,6 +11,7 @@ A passionate Big Data Engineer skilled in data visualization and data analysis!
 
 📂 **Projects**
 - [MRT at Northern Taiwan](https://github.com/chieh-kao-1125/MRT_at_Northern_Taiwan)
+- [HTML projecs](https://github.com/chieh-kao-1125/html-portfolio)
 <br></br>
 
 🔑 **Coding Tips**
